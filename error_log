@@ -1,0 +1,50 @@
+[08-Apr-2019 05:16:29 UTC] PHP Fatal error:  Uncaught Error: Class 'beonepage_Walker_Nav_Menu' not found in /home/afrizalm/blog.afrizalmy.com/wp-content/themes/beonepage-lite/header.php:46
+Stack trace:
+#0 /home/afrizalm/blog.afrizalmy.com/wp-includes/template.php(704): require_once()
+#1 /home/afrizalm/blog.afrizalmy.com/wp-includes/template.php(653): load_template('/home/afrizalm/...', true)
+#2 /home/afrizalm/blog.afrizalmy.com/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/afrizalm/blog.afrizalmy.com/wp-content/themes/beonepage-lite/index.php(15): get_header()
+#4 /home/afrizalm/blog.afrizalmy.com/wp-includes/template-loader.php(77): include('/home/afrizalm/...')
+#5 /home/afrizalm/blog.afrizalmy.com/wp-blog-header.php(19): require_once('/home/afrizalm/...')
+#6 /home/afrizalm/blog.afrizalmy.com/index.php(17): require('/home/afrizalm/...')
+#7 {main}
+  thrown in /home/afrizalm/blog.afrizalmy.com/wp-content/themes/beonepage-lite/header.php on line 46
+[08-Apr-2019 05:16:46 UTC] PHP Fatal error:  Uncaught Error: Class 'beonepage_Walker_Nav_Menu' not found in /home/afrizalm/blog.afrizalmy.com/wp-content/themes/beonepage-lite/header.php:46
+Stack trace:
+#0 /home/afrizalm/blog.afrizalmy.com/wp-includes/template.php(704): require_once()
+#1 /home/afrizalm/blog.afrizalmy.com/wp-includes/template.php(653): load_template('/home/afrizalm/...', true)
+#2 /home/afrizalm/blog.afrizalmy.com/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/afrizalm/blog.afrizalmy.com/wp-content/themes/beonepage-lite/index.php(15): get_header()
+#4 /home/afrizalm/blog.afrizalmy.com/wp-includes/template-loader.php(77): include('/home/afrizalm/...')
+#5 /home/afrizalm/blog.afrizalmy.com/wp-blog-header.php(19): require_once('/home/afrizalm/...')
+#6 /home/afrizalm/blog.afrizalmy.com/index.php(17): require('/home/afrizalm/...')
+#7 {main}
+  thrown in /home/afrizalm/blog.afrizalmy.com/wp-content/themes/beonepage-lite/header.php on line 46
+[08-Apr-2019 05:16:50 UTC] PHP Fatal error:  Uncaught Error: Class 'beonepage_Walker_Nav_Menu' not found in /home/afrizalm/blog.afrizalmy.com/wp-content/themes/beonepage-lite/header.php:46
+Stack trace:
+#0 /home/afrizalm/blog.afrizalmy.com/wp-includes/template.php(704): require_once()
+#1 /home/afrizalm/blog.afrizalmy.com/wp-includes/template.php(653): load_template('/home/afrizalm/...', true)
+#2 /home/afrizalm/blog.afrizalmy.com/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/afrizalm/blog.afrizalmy.com/wp-content/themes/beonepage-lite/index.php(15): get_header()
+#4 /home/afrizalm/blog.afrizalmy.com/wp-includes/template-loader.php(77): include('/home/afrizalm/...')
+#5 /home/afrizalm/blog.afrizalmy.com/wp-blog-header.php(19): require_once('/home/afrizalm/...')
+#6 /home/afrizalm/blog.afrizalmy.com/index.php(17): require('/home/afrizalm/...')
+#7 {main}
+  thrown in /home/afrizalm/blog.afrizalmy.com/wp-content/themes/beonepage-lite/header.php on line 46
+[08-Apr-2019 05:17:13 UTC] PHP Fatal error:  Uncaught Error: Class 'beonepage_Walker_Nav_Menu' not found in /home/afrizalm/blog.afrizalmy.com/wp-content/themes/beonepage-lite/header.php:46
+Stack trace:
+#0 /home/afrizalm/blog.afrizalmy.com/wp-includes/template.php(704): require_once()
+#1 /home/afrizalm/blog.afrizalmy.com/wp-includes/template.php(653): load_template('/home/afrizalm/...', true)
+#2 /home/afrizalm/blog.afrizalmy.com/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/afrizalm/blog.afrizalmy.com/wp-content/themes/beonepage-lite/index.php(15): get_header()
+#4 /home/afrizalm/blog.afrizalmy.com/wp-includes/template-loader.php(77): include('/home/afrizalm/...')
+#5 /home/afrizalm/blog.afrizalmy.com/wp-blog-header.php(19): require_once('/home/afrizalm/...')
+#6 /home/afrizalm/blog.afrizalmy.com/index.php(17): require('/home/afrizalm/...')
+#7 {main}
+  thrown in /home/afrizalm/blog.afrizalmy.com/wp-content/themes/beonepage-lite/header.php on line 46
+[08-Apr-2019 08:37:16 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[08-Apr-2019 08:37:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Apr-2019 08:37:35 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[08-Apr-2019 08:37:35 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[10-Apr-2019 21:24:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/afrizalm/blog.afrizalmy.com/wp-includes/post-template.php on line 293
+[10-Apr-2019 21:24:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/afrizalm/blog.afrizalmy.com/wp-includes/post-template.php on line 293

@@ -1,0 +1,239 @@
+/* Large desktop */
+@media (max-width: 1170px) {
+    body.boxed #page{
+        width:100%;
+        padding: 0 10px;
+    }    
+    #main-slider .bx-controls .bx-controls-direction a{
+        display: none;
+    }
+}
+
+
+@media (max-width: 1140px) {
+    .ak-container, #main {
+        padding: 0 10px;
+        width: 100%;
+    }    
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (max-width: 979px) {
+    .newsletter-widget p {
+        width: 50%;
+    }
+    .blog-date {
+        font-size: 14px;
+        height: 60px;
+        line-height: 15px;
+        padding-top: 15px;
+        width: 60px;
+    }
+    #primary-wrap, .both-sidebar #secondary.secondary-right {
+        float: none;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+    .service-block, .feature-block {
+        width: 47%;
+        margin-bottom: 3%;
+    }
+    .blog-block {
+        width: 98%;
+    }
+    .widget-block {
+        width: 97%;
+        margin-bottom: 3%;
+        padding: 10px;
+    }
+    .blog-image {
+        text-align: center;
+    }
+    .blog-date {
+        font-size: 18px;
+        height: 80px;
+        line-height: 22px;
+        padding-top: 18px;
+        width: 80px;
+    }
+    .top-footer-block {
+        display: block;
+        float: none;
+        margin-bottom: 2%;
+        margin-left: 0 !important;
+        padding: 0 10px;
+        width: 100% !important;
+    }
+    #testimonial .testimonial-quote, 
+    #testimonial .speaker-name {
+        padding: 0 10px;
+    }
+    .caption-content-wrapper .caption-content,
+    #main-slider .bx-controls-direction{
+        display: none;
+    }
+    .caption-content-wrapper {
+        width: 100%;
+    }
+    .slider-caption{
+        top: 50%;
+    }
+    .copyright, .social-icon {
+        display: block;
+        float: none;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .right-header {
+        display: none;
+    }
+    #top {
+        display: block;
+        background: none;
+        top: 5px;
+        position: relative;
+    }
+    .js-ready #nav {
+        display: block;
+        background: #1EB0BC;
+    }
+    #top .nav-btn {
+        float: right;
+        position: static;
+        background: #1EB0BC;
+        width: 40px;
+        height: 40px;
+        padding-top: 4px;
+    }
+    #top .block {
+        padding: 0;
+    }
+    #nav-open-btn .nav-row {
+        border: 2px solid #ffffff;
+        display: block;
+        margin: 5px auto 0;
+        width: 75%;
+    }
+    #nav ul {
+        margin: 0;
+    }
+    #nav ul ul a{
+        padding-left: 40px;
+    }
+    #nav li a {
+        padding: 10px 30px;
+        font-weight: 400;
+        color: #fff;
+        font-size: 14px;
+    }
+
+    #nav li a:focus, #nav li a:hover,
+    #nav li.current-menu-item > a,
+    #nav li.current-menu-ancestor > a {
+        background: none repeat scroll 0 0 rgba(255, 255, 255, 0.1);
+        color: #ffffff;
+    }
+
+    .js-ready #nav .close-btn {
+        text-indent: 0;
+        color: #fff;
+        font-size: 24px;
+        text-align: center;
+        padding: 0;
+        width: 30px;
+        height: 30px;
+        top: -50px;
+        left: 30px;
+        line-height: 25px;
+        border-radius: 100%;
+        border: 2px solid #fff;
+        background: #109ba5;
+        opacity: 1;
+    }
+    #primary, #secondary {
+        float: none !important;
+        width: 100% !important;
+        margin-bottom: 30px !important;
+    }
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 580px) {
+    .service-block, .feature-block {
+        width: 97%;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .blog-block {
+        width: 98%;
+    }
+    .blog-image {
+        text-align: center;
+    }
+    .blog-date {
+        font-size: 14px;
+        height: 60px;
+        line-height: 15px;
+        padding-top: 15px;
+        width: 60px;
+    }
+    .cta-banner-text {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .cta-banner-btn {
+        float: none;
+        margin: 0 auto;
+        width: 50%;
+    }
+    .slider-caption .caption-title {
+        font-size: 20px;
+    }
+    .blog_layout2 .entry-thumbanil, .blog_layout3 .entry-thumbanil {
+        display: block;
+        float: none;
+        margin: 30px 0 !important;
+        width: 100%;
+        text-align: center;
+    }
+}
+
+/* Landscape phones and down */
+@media (max-width: 479px) {
+    .blog-date {
+        font-size: 11px;
+        height: 40px;
+        line-height: 14px;
+        padding-top: 5px;
+        width: 40px;
+    }
+    .testimonial-thumb {
+        height: 70px;
+        margin-left: 20px;
+        width: 70px;
+    }
+    #main-slider .bx-controls .bx-controls-direction {
+        display: none;
+    }
+    #main-slider .bx-controls .bx-pager {
+        bottom: 0;
+    }
+    h1 {
+        font-size: 28px;
+    }
+    #accesspress-breadcrumb {
+        float: left;
+        margin-top: 10px;
+    }
+    .comments-title {
+      font-size: 18px;
+    }
+    .slider-caption{
+        display: none;
+    }
+}

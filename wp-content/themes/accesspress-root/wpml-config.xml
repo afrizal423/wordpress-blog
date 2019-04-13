@@ -1,0 +1,34 @@
+<wpml-config>
+    <admin-texts>
+        <key name="accesspress-root">
+            <key name="service_title" />
+            <key name="service_desc" />
+            <key name="call_to_action_title" />
+            <key name="call_to_action_desc" />
+            <key name="call_to_action_button_text" />
+            <key name="feature_title" />
+            <key name="feature_desc" />
+            <key name="feature_readmore" />
+            <key name="latest_post_title" />
+            <key name="latest_post_desc" />
+            <key name="project_readmore" />
+            <key name="testimonial_title" />
+            <key name="testimonial_desc" />
+            <key name="slider_title1" />
+            <key name="slider_desc1" />
+            <key name="slider_button_text1" />
+            <key name="slider_title2" />
+            <key name="slider_desc2" />
+            <key name="slider_button_text2" />
+            <key name="slider_title3" />
+            <key name="slider_desc3" />
+            <key name="slider_button_text3" />
+            <key name="slider_title4" />
+            <key name="slider_desc4" />
+            <key name="slider_button_text4" />
+            <key name="slider_title5" />
+            <key name="slider_desc5" />
+            <key name="slider_button_text5" />
+        </key>
+    </admin-texts>       
+</wpml-config>

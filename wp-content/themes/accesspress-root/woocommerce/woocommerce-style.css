@@ -1,0 +1,87 @@
+.woocommerce div.product div.images img, .woocommerce ul.products li.product a img{
+    border: solid 1px #1EB0BC;
+}
+.woocommerce span.onsale{
+    border-radius: 0%;
+    top:0px;
+    left:0px;
+}
+.woocommerce span.onsale{
+    background-color: #1EB0BC;
+}
+.woocommerce #respond input#submit.alt,  
+.woocommerce button.button.alt, 
+.woocommerce input.button.alt, 
+.woocommerce #respond input#submit, 
+.woocommerce a.button, 
+.woocommerce button.button, 
+.woocommerce input.button{
+    background-color: transparent;
+    color: #1EB0BC;
+    border-radius: 5%;
+    border: solid 2px #1EB0BC;
+}
+.woocommerce #respond input#submit.alt:hover, 
+.woocommerce button.button.alt:hover, 
+.woocommerce input.button.alt:hover, 
+.woocommerce #respond input#submit:hover, 
+.woocommerce a.button:hover, 
+.woocommerce button.button:hover, 
+.woocommerce input.button:hover{
+    background-color: #1EB0BC;
+    color: #fff;
+}
+.woocommerce div.product form.cart .button{
+    margin-top:-2px;
+}
+.woocommerce div.product p.price, 
+.woocommerce div.product span.price{
+    color:#1EB0BC;
+}
+.woocommerce a.button.alt{
+    background-color: transparent;
+    color: #1EB0BC;
+    border-radius: 2%;
+    border: solid 2px #1EB0BC;
+}
+.woocommerce a.button.alt:hover{
+    background-color: #1EB0BC;
+    color: #fff;
+}
+.woocommerce ul.products li.product .price del{
+    display:inline;
+    padding-right:5px;
+}
+.woocommerce ul.products li.product .price{
+    color:#1EB0BC;
+}
+.woocommerce ul.products li.product, 
+.woocommerce-page ul.products li.product{
+    text-align:center;
+}
+.woocommerce ul.products li.product h3{
+    padding: 0px;
+}
+.woocommerce ul.products li.product .button{
+    margin-top: 0px;
+}.woocommerce ul.products li.product .onsale{
+    margin:0 0 0 0;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range, 
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle{
+    background-color:#1EB0BC;
+}
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content{
+    background-color: #93B2B5;
+}
+.woocommerce div#primary {
+    border: solid 1px #eeeeee;
+    padding: 5px;
+    box-shadow: 0 0 4px #eeeeee;
+}
+.woocommerce .woocommerce-message{
+    border-top-color: #1EB0BC;
+}
+.woocommerce .woocommerce-message:before{
+    color:#1EB0BC;
+}
