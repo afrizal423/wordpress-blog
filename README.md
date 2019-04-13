@@ -11,6 +11,8 @@
 <img src="https://blog.afrizalmy.com/gambar/hp1.png"/><img src="https://blog.afrizalmy.com/gambar/hp2.png"/></p><br>
 
 Sedang dalam tahap pengerjaan<br>
+Username : afrizalm<br>
+Password : surabaya99<br><br><br>
 Fitur dalam web ini :<br>
 1. Progressive Web App<br>
 2. Push Notification<br>
